@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BoardPanel()
+comment1.params=x1\ y1\ piece
+comment1.target=void\ setPiece(int,\ int,\ java.lang.String)
+numComments=2
